@@ -1,2 +1,2 @@
-# cs2030-programming-methodology-ii
-A repository of all my programs compiled from CS2030 term 2410
+# cs2030-discrete-event-simulator
+The discrete event simulator is a program designed to model a queue system in real life.
