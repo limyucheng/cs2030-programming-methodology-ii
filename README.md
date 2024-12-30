@@ -1,2 +1,4 @@
 # cs2030-programming-methodology-ii
-A repository of all my programs compiled from CS2030 term 2410
+A repository of all my programs compiled from CS2030: Programming Methodology II in AY24/25 Sem 1.
+
+CS2030 is a computing course focused on Object-Oriented Programming taughted in Java.
